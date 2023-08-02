@@ -1,0 +1,6 @@
+requerant particulier:http://localhost/prototypeweb1/requerantpar/home.php
+
+requerant pro : http://localhost/prototypeweb1/requerantpro/home.php
+
+administrateur: http://localhost/prototypeweb1/administrateur/
+
